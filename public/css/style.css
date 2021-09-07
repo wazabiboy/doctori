@@ -1,0 +1,13 @@
+footer{
+
+    background-color: aquamarine;
+}
+
+footer  .content-footer{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    max-width: 20%;
+    margin: auto;
+   
+}
